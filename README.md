@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FIREPIERCER
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... C
+- 🌱 I’m currently learning ... C, C++, HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on ... anything new 
 - 📫 How to reach me ... via mail
 
